@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "836753325176",
+    "project_id": "task-manager-bbi-assi",
+    "storage_bucket": "task-manager-bbi-assi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836753325176:android:c73e20edc2e8d69158c18d",
+        "android_client_info": {
+          "package_name": "com.example.task_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjTsql_2T1-htMtZDF_RwKJ1CWOhYXo60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
